@@ -14,16 +14,16 @@
 <br>
 
 <p align="center">
-  <em>🚀 Apasionado por crear soluciones tecnológicas innovadoras | Transformando ideas en código escalable y eficiente</em>
+  <em>Apasionado por crear soluciones tecnológicas innovadoras | Transformando ideas en código escalable y eficiente</em>
 </p>
 
 <p align="center">
-  <em>💡 Especializado en desarrollo Full Stack, aplicaciones móviles multiplataforma y arquitecturas cloud</em>
+  <em>Especializado en desarrollo Full Stack, aplicaciones móviles multiplataforma y arquitecturas cloud</em>
 </p>
 
 <br>
 
-## 🌐 Conecta Conmigo
+## Conecta Conmigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/milton-piña-moreno-626b803a1" target="_blank">
@@ -39,7 +39,7 @@
 
 <br>
 
-## 🎯 Sobre Mí
+## Sobre Mí
 
 ```typescript
 const milton = {
@@ -57,7 +57,7 @@ const milton = {
 ## 🛠️ Tech Stack
 
 <details open>
-<summary><b>💻 Frontend Development</b></summary>
+<summary><b>Frontend Development</b></summary>
 <br>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -72,7 +72,7 @@ const milton = {
 </details>
 
 <details open>
-<summary><b>⚙️ Backend Development</b></summary>
+<summary><b>Backend Development</b></summary>
 <br>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -87,7 +87,7 @@ const milton = {
 </details>
 
 <details open>
-<summary><b>📱 Mobile Development</b></summary>
+<summary><b>Mobile Development</b></summary>
 <br>
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -98,7 +98,7 @@ const milton = {
 </details>
 
 <details open>
-<summary><b>🗄️ Database & ORM</b></summary>
+<summary><b>Database & ORM</b></summary>
 <br>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -126,7 +126,7 @@ const milton = {
 <br>
 
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MilkDev-bit&bg_color=0D1117&color=38C2FF&line=38C2FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
@@ -134,7 +134,7 @@ const milton = {
 
 <br>
 
-## 💼 Experiencia Técnica
+## Experiencia Técnica
 
 <div align="center">
 
@@ -149,7 +149,7 @@ const milton = {
 
 <br>
 
-## 🎓 Filosofía de Desarrollo
+## Filosofía de Desarrollo
 
 > *"El código limpio no es escrito siguiendo un conjunto de reglas. No puedes convertirte en un artesano de software aprendiendo una lista de heurísticas. El profesionalismo y la artesanía provienen de valores que impulsan las disciplinas."*
 
@@ -170,15 +170,15 @@ graph LR
 
 <br>
 
-## 📫 Contacto
+## Contacto
 
 <div align="center">
 
-💼 **¿Buscas colaborar en un proyecto?** ¡Contáctame!
+**¿Buscas colaborar en un proyecto?** ¡Contáctame!
 
-📧 **Email:** miltonpinamoreno@gmail.com
+**Email:** miltonpinamoreno@gmail.com
 
-🔗 **LinkedIn:** [Milton Piña Moreno](https://www.linkedin.com/in/milton-piña-moreno-626b803a1)
+**LinkedIn:** [Milton Piña Moreno](https://www.linkedin.com/in/milton-piña-moreno-626b803a1)
 
 </div>
 
@@ -187,11 +187,6 @@ graph LR
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Gracias%20por%20visitar%20mi%20perfil!&fontSize=30&fontAlignY=70&animation=twinkling" width="100%"/>
 </div>
-
-
-<p align="center">
-  <i>⭐️ Si te gusta mi trabajo, considera darle una estrella a mis repositorios ⭐️</i>
-</p>
 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />

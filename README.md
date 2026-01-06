@@ -125,26 +125,6 @@ const milton = {
 
 <br>
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MilkDev-bit&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MilkDev-bit&theme=radical&hide_border=true&background=0D1117&ring=38C2FF&fire=38C2FF&currStreakLabel=38C2FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilkDev-bit&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=38C2FF&text_color=C9D1D9&exclude_repo=MilkDev-bit" alt="Top Languages" />
-</div>
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MilkDev-bit&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
-
-<br>
 
 ## 📈 Contribution Graph
 
@@ -190,16 +170,6 @@ graph LR
 
 <br>
 
-## 🌟 Proyectos Destacados
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MilkDev-bit&repo=MilkDev-bit&theme=radical&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF&text_color=C9D1D9)](https://github.com/MilkDev-bit/MilkDev-bit)
-
-</div>
-
-<br>
-
 ## 📫 Contacto
 
 <div align="center">
@@ -218,11 +188,6 @@ graph LR
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Gracias%20por%20visitar%20mi%20perfil!&fontSize=30&fontAlignY=70&animation=twinkling" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</div>
-
----
 
 <p align="center">
   <i>⭐️ Si te gusta mi trabajo, considera darle una estrella a mis repositorios ⭐️</i>

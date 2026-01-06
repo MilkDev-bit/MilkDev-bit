@@ -65,6 +65,9 @@
 ### Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MilkDev-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilkDev-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="languages" />
-</div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MilkDev-bit&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilkDev-bit&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>>

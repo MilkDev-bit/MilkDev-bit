@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Milton Piña Moreno" width="100%"/>
+<img src="./assets/hero.png" alt="Milton Piña Moreno" width="100%"/>
 
 <br><br>
 
@@ -12,7 +12,7 @@
 
 <div align="left">
 
-<img src="./assets/div-connect.svg" alt="Conecta" height="64"/>
+<img src="./assets/div-connect.png" alt="Conecta" height="64"/>
 
 <br><br>
 
@@ -47,7 +47,7 @@ struct Milton: Developer {
 
 <br>
 
-<img src="./assets/div-stack.svg" alt="Stack Tecnológico" height="64"/>
+<img src="./assets/div-stack.png" alt="Stack Tecnológico" height="64"/>
 
 <br><br>
 
@@ -113,7 +113,7 @@ struct Milton: Developer {
 
 <br>
 
-<img src="./assets/div-focus.svg" alt="Áreas de Enfoque" height="64"/>
+<img src="./assets/div-focus.png" alt="Áreas de Enfoque" height="64"/>
 
 <br><br>
 
@@ -130,7 +130,7 @@ struct Milton: Developer {
 
 <br>
 
-<img src="./assets/div-activity.svg" alt="Actividad" height="64"/>
+<img src="./assets/div-activity.png" alt="Actividad" height="64"/>
 
 <br><br>
 
@@ -140,7 +140,7 @@ struct Milton: Developer {
 
 <br>
 
-<img src="./assets/div-real.svg" alt="Lo que de verdad importa aquí" height="64"/>
+<img src="./assets/div-real.png" alt="Lo que de verdad importa aquí" height="64"/>
 
 <br><br>
 
@@ -164,7 +164,7 @@ $ whoami --skills
 
 <br>
 
-<img src="./assets/quotes.svg" alt="Frases de guerra" width="100%"/>
+<img src="./assets/quotes.png" alt="Frases de guerra" width="100%"/>
 
 <br>
 
@@ -184,7 +184,7 @@ graph LR
 <br>
 
 <div align="center">
-<img src="./assets/footer.svg" alt="Hablemos" width="100%"/>
+<img src="./assets/footer.png" alt="Hablemos" width="100%"/>
 
 <br>
 

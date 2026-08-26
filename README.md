@@ -28,8 +28,8 @@
 </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=MilkDev-bit&label=Visitas+al+perfil&color=0B0B12&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/MilkDev-bit?label=Seguidores&style=flat-square&color=0B0B12" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=MilkDev-bit&label=Visitas+al+perfil&color=0B0B12&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/MilkDev-bit?label=Seguidores&style=for-the-badge&labelColor=0B0B12&color=4C6FFF" alt="Followers" />
 
 </div>
 
@@ -130,12 +130,33 @@ struct Milton: Developer {
 
 <br>
 
+<img src="./assets/div-setup.png" alt="Mi Setup" height="64"/>
+
+<br><br>
+
+<img src="./assets/setup.png" alt="Mi setup de desarrollo" width="100%"/>
+
+<br>
+
+> *Cambia estos 4 datos por tu setup real — el chiste rinde más si es verdad.*
+
+<br>
+
 <img src="./assets/div-activity.png" alt="Actividad" height="64"/>
 
 <br><br>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MilkDev-bit&bg_color=0B0B12&color=F5F5F7&line=4C6FFF&point=B968F0&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+<img src="https://ghchart.rshah.org/4C6FFF/MilkDev-bit" alt="Contribution Graph" width="100%"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=MilkDev-bit&show_icons=true&hide_border=true&bg_color=0B0B12&title_color=F5F5F7&text_color=9797A1&icon_color=4C6FFF&border_color=1a1a24" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilkDev-bit&layout=compact&hide_border=true&bg_color=0B0B12&title_color=F5F5F7&text_color=9797A1&border_color=1a1a24" alt="Top Languages" height="165"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=MilkDev-bit&hide_border=true&background=0B0B12&ring=4C6FFF&fire=FF6F91&currStreakLabel=F5F5F7&sideLabels=9797A1&sideNums=F5F5F7&dates=6E6E76" alt="GitHub Streak" width="100%"/>
 </div>
 
 <br>
@@ -145,21 +166,20 @@ struct Milton: Developer {
 <br><br>
 
 <div align="center">
-<em>No vendo "buenas prácticas". A menos que paguen bien >-</em>
+<em>Después de suficientes años en esto, ya no busco escribir código perfecto. Busco código que sobreviva a la próxima reunión de "rápida pregunta".</em>
 </div>
 
 <br>
 
 ```
-$ whoami --skills
+$ senior --confess
 
-> Frontend que no se rompe cuando el cliente cambia de opinión (otra vez)
-> Backend que aguanta tráfico sin que yo tenga que rezarle a AWS
-> Apps en Swift y Kotlin que no se sienten "portadas", se sienten nativas
-> Docker: porque "en mi máquina sí funciona" dejó de ser excusa válida
-> Linux en la terminal como quien maneja un auto estándar: con estilo
-> LLMs orquestados en pipelines que no alucinan más que yo un lunes
-> RAG y vector DBs para que la IA deje de inventar tu API
+> Estimo 3 días. Tardo 3 días. La sorpresa es que por una vez acerté.
+> Mi código de hace 5 años no lo toco ni con guantes ni con testigos.
+> "Debería ser rápido" es la frase que más caro me ha salido en la vida.
+> No le tengo miedo a los bugs. Le tengo miedo a los que ya no dan error.
+> El review más duro que he hecho fue al código que escribí yo mismo ayer.
+> Mi verdadero stack: café, ctrl+z y la esperanza de que nadie pregunte por qué funciona.
 ```
 
 <br>
@@ -180,6 +200,12 @@ graph LR
     G --> H[Deploy un viernes]
     H --> I[Rezar]
 ```
+
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Disponibilidad-Abierto%20a%20freelance-2ECC71?style=for-the-badge&labelColor=0B0B12" alt="Disponibilidad" />
+</div>
 
 <br>
 

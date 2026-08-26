@@ -28,8 +28,8 @@
 </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=MilkDev-bit&label=Visitas+al+perfil&color=0B0B12&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/MilkDev-bit?label=Seguidores&style=flat-square&color=0B0B12" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=MilkDev-bit&label=Visitas+al+perfil&color=0B0B12&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/MilkDev-bit?label=Seguidores&style=for-the-badge&labelColor=0B0B12&color=4C6FFF" alt="Followers" />
 
 </div>
 

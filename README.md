@@ -130,12 +130,33 @@ struct Milton: Developer {
 
 <br>
 
+<img src="./assets/div-setup.png" alt="Mi Setup" height="64"/>
+
+<br><br>
+
+<img src="./assets/setup.png" alt="Mi setup de desarrollo" width="100%"/>
+
+<br>
+
+> *Cambia estos 4 datos por tu setup real — el chiste rinde más si es verdad.*
+
+<br>
+
 <img src="./assets/div-activity.png" alt="Actividad" height="64"/>
 
 <br><br>
 
 <div align="center">
 <img src="https://ghchart.rshah.org/4C6FFF/MilkDev-bit" alt="Contribution Graph" width="100%"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=MilkDev-bit&show_icons=true&hide_border=true&bg_color=0B0B12&title_color=F5F5F7&text_color=9797A1&icon_color=4C6FFF&border_color=1a1a24" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilkDev-bit&layout=compact&hide_border=true&bg_color=0B0B12&title_color=F5F5F7&text_color=9797A1&border_color=1a1a24" alt="Top Languages" height="165"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=MilkDev-bit&hide_border=true&background=0B0B12&ring=4C6FFF&fire=FF6F91&currStreakLabel=F5F5F7&sideLabels=9797A1&sideNums=F5F5F7&dates=6E6E76" alt="GitHub Streak" width="100%"/>
 </div>
 
 <br>
@@ -145,7 +166,7 @@ struct Milton: Developer {
 <br><br>
 
 <div align="center">
-<em>Ya no busco escribir código perfecto. Busco código que sobreviva a la próxima reunión de "rápida pregunta".</em>
+<em>Después de suficientes años en esto, ya no busco escribir código perfecto. Busco código que sobreviva a la próxima reunión de "rápida pregunta".</em>
 </div>
 
 <br>
@@ -179,6 +200,12 @@ graph LR
     G --> H[Deploy un viernes]
     H --> I[Rezar]
 ```
+
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Disponibilidad-Abierto%20a%20freelance-2ECC71?style=for-the-badge&labelColor=0B0B12" alt="Disponibilidad" />
+</div>
 
 <br>
 

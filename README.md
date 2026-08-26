@@ -138,8 +138,6 @@ struct Milton: Developer {
 
 <br>
 
-> *Cambia estos 4 datos por tu setup real — el chiste rinde más si es verdad.*
-
 <br>
 
 <img src="./assets/div-activity.png" alt="Actividad" height="64"/>

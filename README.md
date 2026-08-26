@@ -159,7 +159,7 @@ struct Milton: Developer {
 <br><br>
 
 <div align="center">
-<em>Después de suficientes años en esto, ya no busco escribir código perfecto. Busco código que sobreviva a la próxima reunión de "rápida pregunta".</em>
+<em>Ya no busco escribir código perfecto. Busco código que sobreviva a la próxima reunión.</em>
 </div>
 
 <br>

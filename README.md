@@ -138,6 +138,8 @@ struct Milton: Developer {
 
 <br>
 
+> *Cambia estos 4 datos por tu setup real — el chiste rinde más si es verdad.*
+
 <br>
 
 <img src="./assets/div-activity.png" alt="Actividad" height="64"/>
@@ -146,11 +148,6 @@ struct Milton: Developer {
 
 <div align="center">
 <img src="https://ghchart.rshah.org/4C6FFF/MilkDev-bit" alt="Contribution Graph" width="100%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=MilkDev-bit&show_icons=true&hide_border=true&bg_color=0B0B12&title_color=F5F5F7&text_color=9797A1&icon_color=4C6FFF&border_color=1a1a24" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilkDev-bit&layout=compact&hide_border=true&bg_color=0B0B12&title_color=F5F5F7&text_color=9797A1&border_color=1a1a24" alt="Top Languages" height="165"/>
 
 <br><br>
 

@@ -145,21 +145,20 @@ struct Milton: Developer {
 <br><br>
 
 <div align="center">
-<em>No vendo "buenas prácticas". A menos que paguen bien >-</em>
+<em>Después de suficientes años en esto, ya no busco escribir código perfecto. Busco código que sobreviva a la próxima reunión de "rápida pregunta".</em>
 </div>
 
 <br>
 
 ```
-$ whoami --skills
+$ senior --confess
 
-> Frontend que no se rompe cuando el cliente cambia de opinión (otra vez)
-> Backend que aguanta tráfico sin que yo tenga que rezarle a AWS
-> Apps en Swift y Kotlin que no se sienten "portadas", se sienten nativas
-> Docker: porque "en mi máquina sí funciona" dejó de ser excusa válida
-> Linux en la terminal como quien maneja un auto estándar: con estilo
-> LLMs orquestados en pipelines que no alucinan más que yo un lunes
-> RAG y vector DBs para que la IA deje de inventar tu API
+> Estimo 3 días. Tardo 3 días. La sorpresa es que por una vez acerté.
+> Mi código de hace 5 años no lo toco ni con guantes ni con testigos.
+> "Debería ser rápido" es la frase que más caro me ha salido en la vida.
+> No le tengo miedo a los bugs. Le tengo miedo a los que ya no dan error.
+> El review más duro que he hecho fue al código que escribí yo mismo ayer.
+> Mi verdadero stack: café, ctrl+z y la esperanza de que nadie pregunte por qué funciona.
 ```
 
 <br>

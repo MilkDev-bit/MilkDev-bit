@@ -135,7 +135,7 @@ struct Milton: Developer {
 <br><br>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MilkDev-bit&bg_color=0B0B12&color=F5F5F7&line=4C6FFF&point=B968F0&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+<img src="https://ghchart.rshah.org/4C6FFF/MilkDev-bit" alt="Contribution Graph" width="100%"/>
 </div>
 
 <br>

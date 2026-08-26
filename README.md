@@ -1,23 +1,39 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=300&size=30&duration=3500&pause=1200&color=1D1D1F&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Milton+Pi%C3%B1a;Full+Stack+Developer;Mobile+%26+Cloud+Engineer;AI+%26+Deep+Learning" alt="Typing SVG" />
-
-<br>
-
-</div>
+<img src="./assets/hero.svg" alt="Milton Piña Moreno" width="100%"/>
 
 <br><br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D1D1F,100:2C2C2E&height=180&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1200&color=9797A1&background=00000000&center=true&vCenter=true&width=560&lines=explorando%3A+model+orchestration;explorando%3A+deep+learning;explorando%3A+system+design" alt="Typing SVG" />
+
 </div>
 
 <br>
 
-## Sobre mí (MictDev)
+<div align="left">
 
-<table align="center">
-</table>
+<img src="./assets/div-connect.svg" alt="Conecta" height="64"/>
+
+<br><br>
+
+<p>
+<a href="https://www.linkedin.com/in/milton-piña-moreno-626b803a1" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0B0B12?style=for-the-badge&logo=linkedin&logoColor=0A84FF" alt="LinkedIn" />
+</a>
+<a href="mailto:miltonpinamoreno@gmail.com">
+<img src="https://img.shields.io/badge/Email-0B0B12?style=for-the-badge&logo=gmail&logoColor=FF6F91" alt="Email" />
+</a>
+<a href="https://github.com/MilkDev-bit">
+<img src="https://img.shields.io/badge/GitHub-0B0B12?style=for-the-badge&logo=github&logoColor=F5F5F7" alt="GitHub" />
+</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=MilkDev-bit&label=Visitas+al+perfil&color=0B0B12&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/MilkDev-bit?label=Seguidores&style=flat-square&color=0B0B12" alt="Followers" />
+
+</div>
+
+<br>
 
 ```swift
 struct Milton: Developer {
@@ -31,107 +47,80 @@ struct Milton: Developer {
 
 <br>
 
-## Conecta
+<img src="./assets/div-stack.svg" alt="Stack Tecnológico" height="64"/>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/milton-piña-moreno-626b803a1" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-1D1D1F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:miltonpinamoreno@gmail.com">
-<img src="https://img.shields.io/badge/Email-1D1D1F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/MilkDev-bit">
-<img src="https://img.shields.io/badge/GitHub-1D1D1F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=MilkDev-bit&label=Visitas+al+perfil&color=1D1D1F&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/MilkDev-bit?label=Seguidores&style=flat-square&color=1D1D1F" alt="Followers" />
-</p>
-
-<br>
-
----
-
-<br>
-
-## Stack Tecnológico
-
-<br>
+<br><br>
 
 **Frontend**
 
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-1D1D1F?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-1D1D1F?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/React-1D1D1F?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vue.js-1D1D1F?style=flat-square&logo=vue.js&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-1D1D1F?style=flat-square&logo=tailwind-css&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/JavaScript-0B0B12?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-0B0B12?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/React-0B0B12?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vue.js-0B0B12?style=flat-square&logo=vue.js&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0B0B12?style=flat-square&logo=tailwind-css&logoColor=38BDF8" />
 </p>
 
 **Backend**
 
 <p align="center">
-<img src="https://img.shields.io/badge/Node.js-1D1D1F?style=flat-square&logo=nodedotjs&logoColor=339933" />
-<img src="https://img.shields.io/badge/NestJS-1D1D1F?style=flat-square&logo=nestjs&logoColor=E0234E" />
-<img src="https://img.shields.io/badge/Python-1D1D1F?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/Django-1D1D1F?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-1D1D1F?style=flat-square&logo=dotnet&logoColor=512BD4" />
+<img src="https://img.shields.io/badge/Node.js-0B0B12?style=flat-square&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/NestJS-0B0B12?style=flat-square&logo=nestjs&logoColor=E0234E" />
+<img src="https://img.shields.io/badge/Python-0B0B12?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Django-0B0B12?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-0B0B12?style=flat-square&logo=dotnet&logoColor=512BD4" />
 </p>
 
 **Mobile**
 
 <p align="center">
-<img src="https://img.shields.io/badge/Swift-1D1D1F?style=flat-square&logo=swift&logoColor=F05138" />
-<img src="https://img.shields.io/badge/Flutter-1D1D1F?style=flat-square&logo=flutter&logoColor=02569B" />
-<img src="https://img.shields.io/badge/Dart-1D1D1F?style=flat-square&logo=dart&logoColor=0175C2" />
-<img src="https://img.shields.io/badge/Kotlin-1D1D1F?style=flat-square&logo=kotlin&logoColor=7F52FF" />
-<img src="https://img.shields.io/badge/React_Native-1D1D1F?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Swift-0B0B12?style=flat-square&logo=swift&logoColor=F05138" />
+<img src="https://img.shields.io/badge/Flutter-0B0B12?style=flat-square&logo=flutter&logoColor=02569B" />
+<img src="https://img.shields.io/badge/Dart-0B0B12?style=flat-square&logo=dart&logoColor=0175C2" />
+<img src="https://img.shields.io/badge/Kotlin-0B0B12?style=flat-square&logo=kotlin&logoColor=7F52FF" />
+<img src="https://img.shields.io/badge/React_Native-0B0B12?style=flat-square&logo=react&logoColor=61DAFB" />
 </p>
 
 **Bases de datos**
 
 <p align="center">
-<img src="https://img.shields.io/badge/PostgreSQL-1D1D1F?style=flat-square&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/MySQL-1D1D1F?style=flat-square&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/MongoDB-1D1D1F?style=flat-square&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/Redis-1D1D1F?style=flat-square&logo=redis&logoColor=DC382D" />
+<img src="https://img.shields.io/badge/PostgreSQL-0B0B12?style=flat-square&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/MySQL-0B0B12?style=flat-square&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/MongoDB-0B0B12?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/Redis-0B0B12?style=flat-square&logo=redis&logoColor=DC382D" />
 </p>
 
 **Cloud & DevOps**
 
 <p align="center">
-<img src="https://img.shields.io/badge/Docker-1D1D1F?style=flat-square&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/AWS-1D1D1F?style=flat-square&logo=amazon-aws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/Linux-1D1D1F?style=flat-square&logo=linux&logoColor=FCC624" />
-<img src="https://img.shields.io/badge/Nginx-1D1D1F?style=flat-square&logo=nginx&logoColor=009639" />
-<img src="https://img.shields.io/badge/GitHub_Actions-1D1D1F?style=flat-square&logo=github-actions&logoColor=2088FF" />
+<img src="https://img.shields.io/badge/Docker-0B0B12?style=flat-square&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/AWS-0B0B12?style=flat-square&logo=amazon-aws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Linux-0B0B12?style=flat-square&logo=linux&logoColor=FCC624" />
+<img src="https://img.shields.io/badge/Nginx-0B0B12?style=flat-square&logo=nginx&logoColor=009639" />
+<img src="https://img.shields.io/badge/GitHub_Actions-0B0B12?style=flat-square&logo=github-actions&logoColor=2088FF" />
 </p>
 
 **Inteligencia Artificial · Deep Learning · Orquestación de Modelos**
 
 <p align="center">
-<img src="https://img.shields.io/badge/PyTorch-1D1D1F?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
-<img src="https://img.shields.io/badge/TensorFlow-1D1D1F?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
-<img src="https://img.shields.io/badge/LangChain-1D1D1F?style=flat-square&logo=langchain&logoColor=1C3C3C" />
-<img src="https://img.shields.io/badge/Hugging_Face-1D1D1F?style=flat-square&logo=huggingface&logoColor=FFD21E" />
-<img src="https://img.shields.io/badge/OpenAI_API-1D1D1F?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-1D1D1F?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-0B0B12?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/TensorFlow-0B0B12?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
+<img src="https://img.shields.io/badge/LangChain-0B0B12?style=flat-square&logo=langchain&logoColor=1C3C3C" />
+<img src="https://img.shields.io/badge/Hugging_Face-0B0B12?style=flat-square&logo=huggingface&logoColor=FFD21E" />
+<img src="https://img.shields.io/badge/OpenAI_API-0B0B12?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-0B0B12?style=flat-square&logo=ollama&logoColor=white" />
 </p>
 
 <br>
 
----
+<img src="./assets/div-focus.svg" alt="Áreas de Enfoque" height="64"/>
 
-<br>
-
-## Áreas de Enfoque
+<br><br>
 
 <div align="center">
 
 | Desarrollo | Infraestructura | Inteligencia Artificial |
-|:---:|:---:|:---:|
+|:---|:---|:---|
 | Aplicaciones web y móviles nativas | Arquitecturas cloud en AWS | Orquestación de modelos (LangChain, agentes) |
 | APIs REST y microservicios | Administración de sistemas Linux | Deep Learning con PyTorch / TensorFlow |
 | Swift & Kotlin para iOS/Android | CI/CD y contenedores con Docker | Integración de LLMs en producción |
@@ -141,19 +130,19 @@ struct Milton: Developer {
 
 <br>
 
-## Actividad
+<img src="./assets/div-activity.svg" alt="Actividad" height="64"/>
+
+<br><br>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MilkDev-bit&bg_color=FFFFFF&color=1D1D1F&line=1D1D1F&point=8E8E93&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MilkDev-bit&bg_color=0B0B12&color=F5F5F7&line=4C6FFF&point=B968F0&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
 </div>
 
 <br>
 
----
+<img src="./assets/div-real.svg" alt="Lo que de verdad importa aquí" height="64"/>
 
-<br>
-
-## Lo que de verdad importa aquí
+<br><br>
 
 <div align="center">
 <em>No vendo "buenas prácticas". A menos que paguen bien >-</em>
@@ -175,52 +164,34 @@ $ whoami --skills
 
 <br>
 
-<div align="center">
-
-**Git commit -m "fix"** — 47 veces en el mismo día, todos sabemos que pasó
-
-**console.log("aquí")** — la deuda técnica más honesta que existe
-
-**"Funciona en mi máquina"** — la frase que separa juniors de seniors con trauma
-
-</div>
+<img src="./assets/quotes.svg" alt="Frases de guerra" width="100%"/>
 
 <br>
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#12121a','primaryTextColor':'#F5F5F7','primaryBorderColor':'#4C6FFF','lineColor':'#5C5C63','secondaryColor':'#1a1a24','tertiaryColor':'#12121a','fontFamily':'SF Mono, monospace'}}}%%
 graph LR
-    A[Idea genial a las 2am] --> B[La escribo antes de olvidarla]
+    A[Idea a las 2am] --> B[La anoto ya]
     B --> C[Funciona a la primera]
     C --> D{¿En serio?}
     D -->|No| E[Stack Overflow]
     D -->|Sí| F[Sospecha inmediata]
-    E --> G[Copiar, pegar, entender después]
+    E --> G[Copiar y entender después]
     G --> H[Deploy un viernes]
     H --> I[Rezar]
 ```
 
 <br>
 
----
-
-<br>
-
 <div align="center">
-
-**¿Construyendo algo interesante? Hablemos.**
-
-**miltonpinamoreno@gmail.com**
-
-[Milton Piña Moreno · LinkedIn](https://www.linkedin.com/in/milton-piña-moreno-626b803a1)
+<img src="./assets/footer.svg" alt="Hablemos" width="100%"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Powered_by-Linux-1D1D1F?style=for-the-badge&logo=linux&logoColor=FCC624" />
-
-</div>
+**[miltonpinamoreno@gmail.com](mailto:miltonpinamoreno@gmail.com)** · **[Milton Piña Moreno · LinkedIn](https://www.linkedin.com/in/milton-piña-moreno-626b803a1)**
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2C2E,100:1D1D1F&height=120&section=footer" width="100%"/>
+<img src="https://img.shields.io/badge/Powered_by-Linux-0B0B12?style=for-the-badge&logo=linux&logoColor=FCC624" />
+
 </div>

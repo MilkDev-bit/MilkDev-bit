@@ -125,6 +125,9 @@ struct Milton: Developer {
 <img src="https://img.shields.io/badge/LangChain-0B0B12?style=flat-square&logo=langchain&logoColor=1C3C3C" />
 <img src="https://img.shields.io/badge/Hugging_Face-0B0B12?style=flat-square&logo=huggingface&logoColor=FFD21E" />
 <img src="https://img.shields.io/badge/OpenAI_API-0B0B12?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_Bedrock-0B0B12?style=flat-square&logo=amazonbedrock&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Google_AI_Studio-0B0B12?style=flat-square&logo=google&logoColor=4285F4" />
+<img src="https://img.shields.io/badge/Vertex_AI-0B0B12?style=flat-square&logo=googlecloud&logoColor=4285F4" />
 <img src="https://img.shields.io/badge/Ollama-0B0B12?style=flat-square&logo=ollama&logoColor=white" />
 </p>
 

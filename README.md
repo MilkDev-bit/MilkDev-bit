@@ -94,6 +94,9 @@ struct Milton: Developer {
 <img src="https://img.shields.io/badge/MySQL-0B0B12?style=flat-square&logo=mysql&logoColor=4479A1" />
 <img src="https://img.shields.io/badge/MongoDB-0B0B12?style=flat-square&logo=mongodb&logoColor=47A248" />
 <img src="https://img.shields.io/badge/Redis-0B0B12?style=flat-square&logo=redis&logoColor=DC382D" />
+<img src="https://img.shields.io/badge/Pinecone-0B0B12?style=flat-square&logo=pinecone&logoColor=white" />
+<img src="https://img.shields.io/badge/Chroma-0B0B12?style=flat-square&logo=chroma&logoColor=FF6600" />
+<img src="https://img.shields.io/badge/Weaviate-0B0B12?style=flat-square&logo=weaviate&logoColor=FF0033" />
 </p>
 
 **Cloud & DevOps**

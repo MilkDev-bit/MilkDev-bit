@@ -232,6 +232,6 @@ graph LR
 <br>
 
 <img src="https://img.shields.io/badge/Powered_by-Linux-0B0B12?style=for-the-badge&logo=linux&logoColor=FCC624" />
-<img src="https://img.shields.io/badge/Powered_by-Monster-0B0B12?style=for-the-badge&logo=monster&logoColor=30D5C8" />
+<img src="https://img.shields.io/badge/Powered_by-Joker-0B0B12?style=for-the-badge&logo=thejoker&logoColor=8A2BE2" />
 
 </div>

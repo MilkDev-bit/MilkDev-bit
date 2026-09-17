@@ -101,8 +101,16 @@ struct Milton: Developer {
 <p align="center">
 <img src="https://img.shields.io/badge/Docker-0B0B12?style=flat-square&logo=docker&logoColor=2496ED" />
 <img src="https://img.shields.io/badge/AWS-0B0B12?style=flat-square&logo=amazon-aws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Google_Cloud-0B0B12?style=flat-square&logo=googlecloud&logoColor=4285F4" />
 <img src="https://img.shields.io/badge/Linux-0B0B12?style=flat-square&logo=linux&logoColor=FCC624" />
+<img src="https://img.shields.io/badge/Red_Hat-0B0B12?style=flat-square&logo=redhat&logoColor=EE0000" />
 <img src="https://img.shields.io/badge/Nginx-0B0B12?style=flat-square&logo=nginx&logoColor=009639" />
+<img src="https://img.shields.io/badge/Cloudflare-0B0B12?style=flat-square&logo=cloudflare&logoColor=F38020" />
+<img src="https://img.shields.io/badge/Vercel-0B0B12?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Railway-0B0B12?style=flat-square&logo=railway&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-0B0B12?style=flat-square&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-0B0B12?style=flat-square&logo=redis&logoColor=DC382D" />
+<img src="https://img.shields.io/badge/Notion-0B0B12?style=flat-square&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-0B0B12?style=flat-square&logo=github-actions&logoColor=2088FF" />
 </p>
 

@@ -65,9 +65,12 @@ struct Milton: Developer {
 
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-0B0B12?style=flat-square&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/TypeScript-0B0B12?style=flat-square&logo=typescript&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/NestJS-0B0B12?style=flat-square&logo=nestjs&logoColor=E0234E" />
+<img src="https://img.shields.io/badge/Go-0B0B12?style=flat-square&logo=go&logoColor=00ADD8" />
 <img src="https://img.shields.io/badge/Python-0B0B12?style=flat-square&logo=python&logoColor=3776AB" />
 <img src="https://img.shields.io/badge/Django-0B0B12?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-0B0B12?style=flat-square&logo=csharp&logoColor=239120" />
 <img src="https://img.shields.io/badge/.NET-0B0B12?style=flat-square&logo=dotnet&logoColor=512BD4" />
 </p>
 

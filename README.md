@@ -204,8 +204,8 @@ $ senior --confess
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#12121a','primaryTextColor':'#F5F5F7','primaryBorderColor':'#4C6FFF','lineColor':'#5C5C63','secondaryColor':'#1a1a24','tertiaryColor':'#12121a','fontFamily':'SF Mono, monospace'}}}%%
 graph LR
-    A[Idea a las 2am] --> B[La anoto ya]
-    B --> C[Funciona a la primera]
+    A[Idea?] --> B[La anoto ya]
+    B --> C[¿Funciona a la primera?]
     C --> D{¿En serio?}
     D -->|No| E[Stack Overflow]
     D -->|Sí| F[Sospecha inmediata]
